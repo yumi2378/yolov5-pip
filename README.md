@@ -1,5 +1,5 @@
 # Packaged YOLOv5 Object Detector
-
+# Fork to use custom confidence threshold value for alphaMask 
 [![PyPI version](https://badge.fury.io/py/yolov5.svg)](https://badge.fury.io/py/yolov5)
 [![Downloads](https://pepy.tech/badge/yolov5/month)](https://pepy.tech/project/yolov5)
 <a href="https://github.com/fcakyon/yolov5-pip/actions/workflows/ci.yml"><img src="https://github.com/fcakyon/yolov5-python/workflows/CI%20CPU%20Testing/badge.svg" alt="CI CPU testing"></a>

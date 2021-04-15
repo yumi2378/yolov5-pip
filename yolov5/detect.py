@@ -22,7 +22,7 @@ def detect(
     weights="yolov5s.pt",
     source="yolov5/data/images",
     img_size=640,
-    conf_thres=0.25,
+    conf_thres=0.75,
     iou_thres=0.45,
     device="",
     view_img=False,
